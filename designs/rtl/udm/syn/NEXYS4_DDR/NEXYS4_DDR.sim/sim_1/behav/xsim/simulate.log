@@ -1,0 +1,4 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+PASS: 200 bit-exact results, latency = 32 cycles, II = 1
+$finish called at time : 2380 ns : File "C:/Users/grosb/Vivado/aal-lab4/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.srcs/sim_1/new/tb_cordic_inline.sv" Line 123
